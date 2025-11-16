@@ -189,4 +189,5 @@ GitHub: https://github.com/mobinyousefi-cs
 ## 📄 License (MIT)
 
     MIT License
-
+    Permission is hereby granted...
+    (Include full MIT license in LICENSE file)

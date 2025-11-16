@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Notes &amp; Password Manager</string>
+
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create account</string>
+    <string name="back_to_login">Back to login</string>
+    <string name="notes">Notes</string>
+    <string name="no_notes">No notes yet. Tap + to create one.</string>
+    <string name="add_note">Add note</string>
+    <string name="edit_note">Edit note</string>
+    <string name="title">Title</string>
+    <string name="note_content">Note</string>
+    <string name="save">Save</string>
+</resources>
